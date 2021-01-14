@@ -1,1 +1,1 @@
-Sistema com Git. Alterado e atualizado.
+Sistema com Git.
